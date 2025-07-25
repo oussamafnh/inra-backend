@@ -1,0 +1,47 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+debug.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Build and cache directories
+dist/
+build/
+.cache/
+tmp/
+
+
+# Editor-specific files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Git-specific files
+*.orig.*
+
+# Test coverage
+coverage/
+
+# Expo/React Native-specific files
+.expo/
+.expo-shared/
+
+# Ignore any node_modules except in /applicationGDTbackend/
+node_modules/
+
